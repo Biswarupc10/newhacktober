@@ -27,7 +27,7 @@ void	ft_sort_int_tab(int *tab, int size)
 				curint = &tab[counter2];
 		}
 		ft_swap(&tab[counter], curint)
-		counter++;
+		counter2++;
 	}
 }
 
