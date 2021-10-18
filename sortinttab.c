@@ -11,7 +11,7 @@ void	ft_swap(int *a, int *b)
 
 void	ft_sort_int_tab(int *tab, int size)
 {
-	int	counte;
+	int	counter;
 	int	counter2;
 	int	*curint;
 
