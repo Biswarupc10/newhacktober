@@ -16,7 +16,7 @@ void	ft_sort_int_tab(int *tab, int size)
 	int	*curint;
 
 	counter = 0;
-	while counter < size)
+	while (counter < size)
 	{
 		*curint = tab[counter];
 		counter2 = counter;
