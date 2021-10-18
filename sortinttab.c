@@ -37,4 +37,5 @@ int main(void)
 	ft_sort_int_tab(tab, 10);
 	if (tab[2] == 2)
 		write(1, "Success\n", 8);
+	return 0;
 }
